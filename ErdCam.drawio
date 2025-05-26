@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YbHBjPPML3G3iV3Cdc88-12" value="Role" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="130" width="90" height="40" as="geometry" />
+          <mxGeometry x="-230" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YbHBjPPML3G3iV3Cdc88-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YbHBjPPML3G3iV3Cdc88-12" target="YbHBjPPML3G3iV3Cdc88-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
