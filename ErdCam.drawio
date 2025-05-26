@@ -773,6 +773,9 @@
             <mxPoint x="2070" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xxR_0bkfxEYzeuf-1PEA-58" value="&lt;strong data-end=&quot;716&quot; data-start=&quot;694&quot;&gt;SocialMediaAccount&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
